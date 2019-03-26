@@ -2,7 +2,7 @@
   "name": "hyong_portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bbung24.github.io/hyong_portfolio/",
+  "homepage": "https://h-y0ng.github.io/portfolio/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.5",
